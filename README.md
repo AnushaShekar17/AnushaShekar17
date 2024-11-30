@@ -9,7 +9,7 @@
 
 •⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
 
-•✨Reach me out to me at **@anushaharithsa@gmail.com**
+•✨Reach out to me at **@anushaharithsa@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anusha_harithsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anusha_harithsa" height="30" width="40" /></a>
