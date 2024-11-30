@@ -4,7 +4,9 @@
 <p align="left"> <a href="https://twitter.com/anusha_harithsa" target="blank"><img src="https://img.shields.io/twitter/follow/anusha_harithsa?logo=twitter&style=for-the-badge" alt="anusha_harithsa" /></a> </p>
 
 •🌱 I’m currently learning **Programming languages**
+
 •👩‍🏫All projects are available on **GitHub**
+
 •⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
 
 <h3 align="left">Connect with me:</h3>
