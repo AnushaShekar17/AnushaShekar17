@@ -3,17 +3,18 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 <p align="left"> <a href="https://twitter.com/anusha_harithsa" target="blank"><img src="https://img.shields.io/twitter/follow/anusha_harithsa?logo=twitter&style=for-the-badge" alt="anusha_harithsa" /></a> </p>
 
-•🌱 I’m currently learning **Programming languages**
 
-•👩‍🏫All projects are available on **GitHub**
+- 🌱 I’m currently learning **Programming languages**
 
-•⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
+- 📫 How to reach me **anushaharithsa@gmail.com**
 
-•✨Reach out to me at **@anushaharithsa@gmail.com**
+- ⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anusha_harithsa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anusha_harithsa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anusha s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anusha s" height="30" width="40" /></a>
+<a href="https://kaggle.com/anushaaas17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anushaaas17" height="30" width="40" /></a>
 <a href="https://instagram.com/anusha._.shekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anusha._.shekar" height="30" width="40" /></a>
 </p>
 
