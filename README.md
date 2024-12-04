@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Anusha S</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="Coding" width="600" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🌱 I’m currently learning **Programming languages**
 
 - 📫 How to reach me **anushaharithsa@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushashekar17&show_icons=true&locale=en" alt="anushashekar17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushashekar17&" alt="anushashekar17" /></p>
+
