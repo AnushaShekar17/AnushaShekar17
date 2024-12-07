@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anusha S</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-# 💫 About Me:
+
  - 🌱 I’m currently learning **Programming languages**<br><br>- 📫 How to reach me **anushaharithsa@gmail.com**<br><br>- ⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
 
 
