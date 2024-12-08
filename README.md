@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India🇮🇳.</h3>
 
 
- - 🌱 I’m currently learning **Programming languages**<br><br>- 📫 How to reach me **anushaharithsa@gmail.com**<br><br>- ⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
+-🌱 I’m currently learning **Programming languages**<br><br>- 📫 How to reach me **anushaharithsa@gmail.com**<br><br>- ⚡ Fun fact **When I'm not coding,you can find me trying out new recipes!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
